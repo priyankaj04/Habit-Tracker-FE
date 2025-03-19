@@ -33,13 +33,13 @@ export const typography = StyleSheet.create({
   },
   regular: (x) => {
     return {
-      fontFamily: "DMSansRegular",
+      fontFamily: "PoppingsRegular",
       fontSize: x,
     };
   },
   light: (x) => {
     return {
-      fontFamily: "PoppingsRegular",
+      fontFamily: "PoppingsLight",
       fontSize: x,
     };
   },
