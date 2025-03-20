@@ -1,5 +1,5 @@
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
-import { C, vw } from '../utils'
+import { C, vw } from '@/utils'
 import React from 'react'
 import { usePathname, useRouter } from 'expo-router';
 import FontAwesome6 from '@expo/vector-icons/FontAwesome6';
