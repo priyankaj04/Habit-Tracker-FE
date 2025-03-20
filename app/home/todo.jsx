@@ -14,7 +14,7 @@ const Todo = () => {
                   gap: 16,
                 }}
               >
-                <Text>Journal</Text>
+                <Text>Todos</Text>
               </ScrollView>
             </SafeAreaView>
   )

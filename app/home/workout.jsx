@@ -14,7 +14,7 @@ const Workout = () => {
                      gap: 16,
                    }}
                  >
-                   <Text>Journal</Text>
+                   <Text>Workout</Text>
                  </ScrollView>
                </SafeAreaView>
   )
