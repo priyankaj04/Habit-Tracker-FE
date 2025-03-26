@@ -6,17 +6,17 @@ import React from 'react'
 
 const Workout = () => {
   return (
-   <SafeAreaView style={{ flex: 1, backgroundColor: C.background }}>
-                 <StatusBar style="dark" />
-                 <ScrollView
-                   contentContainerStyle={{
-                     padding: 16,
-                     gap: 16,
-                   }}
-                 >
-                   <Text>Workout</Text>
-                 </ScrollView>
-               </SafeAreaView>
+    <SafeAreaView style={{ flex: 1, backgroundColor: C.background }}>
+      <StatusBar style="dark" />
+      <ScrollView
+        contentContainerStyle={{
+          padding: 16,
+          gap: 16,
+        }}
+      >
+        <Text>Workout</Text>
+      </ScrollView>
+    </SafeAreaView>
   )
 }
 

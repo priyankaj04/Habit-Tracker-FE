@@ -42,7 +42,7 @@ const Home = () => {
           </View>
         </View>
 
-       {/*  <ImageBackground
+        {/*  <ImageBackground
           source={require("../../assets/images/streaksbg.png")}
           style={styles.card}
         >

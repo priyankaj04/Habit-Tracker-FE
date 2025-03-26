@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#FEF5F2"
-      }
+      },
+      "package": "com.priyankaj2002.habittracker"
     },
     "web": {
       "bundler": "metro",

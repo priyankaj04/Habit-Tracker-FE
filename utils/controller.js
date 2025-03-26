@@ -1,1 +1,2 @@
-export const API_URL = "http://localhost:8000"
+export const BASE_URL = "http://10.0.2.2:8000"
+export const TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI5YWIyNDU2MC1mYWNlLTRiZDItYjk2Zi05ZmRhMjQ1MWIwMzMiLCJpYXQiOjE3NDIzMTU0OTcsImV4cCI6NDg5ODA3NTQ5N30.CFGSHw-_jD060dRz4QMdWrujcY1yZlZA0jsv64amgVA";
